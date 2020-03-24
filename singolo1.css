@@ -71,6 +71,11 @@ body {
     height: 495px;
 }
 
+.bottom_list {
+    margin: 55px 0 0 30px;
+    display: flex;
+}
+
 .bottom h1 {
     font-size: 30px;
     line-height: 18px;
@@ -89,3 +94,7 @@ p {
     margin-left: 40px;
 }
 
+.box {
+    width: 300px;
+    display: flex;
+}
